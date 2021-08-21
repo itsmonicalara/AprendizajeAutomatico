@@ -1,1 +1,1 @@
-# Prácticas Tema 1
+# Soluciones de Prácticas - Tema 1
